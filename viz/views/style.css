@@ -1,0 +1,22 @@
+@font-face {
+  font-family: DecimaMono;
+  src: url(./images/decimamono-light-webfont.ttf); 
+}
+font-family: 'DecimaMono', sans-serif;
+
+body {
+    margin: 0;
+}
+
+.mast{
+    background: "#ffffff";
+    z-index: 99;
+    position: relative;
+    font-size:84px;
+    font-weight: 700;
+}
+
+.CDB-OverlayContainer{
+    top: 460px;
+    left: 75px;
+}
