@@ -1,6 +1,8 @@
 # Ghost Lots
+
+(View the [live visualization](http://ghostlots.justin.work/).)
 ## Introduction
-Between 2002 and 2013, the Bloomberg administration rezoned 37% of the New York City as part of a new development policy. Belowis an actual pamphlet from that proposal— The areas in red are those to be rezoned. Many now directly tie this rezoning to rapid, widespread displacement in NYC.
+Between 2002 and 2013, the Bloomberg administration rezoned 37% of the New York City as part of a new development policy. Below is an actual pamphlet from that proposal— The areas in red are those to be rezoned. Many now directly tie this rezoning to rapid, widespread displacement in NYC.
 
 ![Noise](https://jblinder.github.io/images/project03/research-1.jpeg)
 
@@ -44,3 +46,4 @@ One area where model results seemed a bit more suspect was Downtown Brooklyn, wh
 ## Conclusion
 
 As the city and third-parties release more nuanced types of civic data, it's interesting to consider what might be emerging markers of impending development. For instance, citi bikes, public wifi, potholes, and surveillance cameras might be telling signifiers of urban shifts. A future direction for this project will be exploring these trace data points.
+
